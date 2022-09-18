@@ -1,0 +1,2 @@
+-- $#9999/ali
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Fu{{asdasdasd:ck}} You! ng", "All")
