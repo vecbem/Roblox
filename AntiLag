@@ -1,4 +1,4 @@
--- $#9999/ali --
+-- $#9999/ali
 
 local cam=workspace.CurrentCamera
 local screen_size=Vector2.new(0,0)
