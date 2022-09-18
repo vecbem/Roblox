@@ -1,4 +1,4 @@
--- $#9999/ali --
+-- $#9999/ali
 
 local VirtualUser = game:GetService('VirtualUser')
 game:GetService('Players').LocalPlayer.Idled:connect(function()
