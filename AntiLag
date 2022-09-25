@@ -1,4 +1,4 @@
--- $#9999/ali
+-- zrre#8008/Rodes
 
 local cam=workspace.CurrentCamera
 local screen_size=Vector2.new(0,0)
