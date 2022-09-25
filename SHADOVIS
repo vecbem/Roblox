@@ -31,7 +31,7 @@ end
 plr.OnTeleport:Connect(function(state)
 	if state == Enum.TeleportState.Started then
 		if queueteleport then
-			queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Novaz5792/Unknown/main/SHADOVIS'))()")
+			queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/vecbem/Roblox/main/SHADOVIS'))()")
 		end
 	end
 end)
