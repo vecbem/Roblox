@@ -1,4 +1,5 @@
--- $#9999/ali
+-- zrre#8008/Rodes
+-- https://discord.gg/GFagM8yDUf
 
 local virtualUser = game:GetService('VirtualUser')
 virtualUser:CaptureController()
