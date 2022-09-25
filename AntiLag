@@ -1,4 +1,5 @@
 -- zrre#8008/Rodes
+-- https://discord.gg/GFagM8yDUf
 
 local cam=workspace.CurrentCamera
 local screen_size=Vector2.new(0,0)
